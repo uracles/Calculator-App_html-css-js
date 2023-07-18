@@ -1,4 +1,4 @@
-Calculator App (HTML, CSS, JavaScript)
+#Calculator App (HTML, CSS, JavaScript)
 Calculator App Screenshot
 
 Description
