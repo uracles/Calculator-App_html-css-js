@@ -1,4 +1,4 @@
-<span style="font-size: 50px;"><strong>Calculator App (HTML, CSS, JavaScript)</strong></span>
+<span style="font-size: 100px;"><strong>Calculator App (HTML, CSS, JavaScript)</strong></span>
 
 #Calculator App Screenshot(to be included)
 
@@ -21,7 +21,7 @@ Press the "=" button to display the result.
 To clear the input and calculation, click the "C" button.
 
 __Installation__
-Clone the repository: git clone https://github.com//Calculator-App.git
+Clone the repository: git clone https://github.com/uracles/Calculator-App_html-css-js.git
 Open index.html in your web browser.
 
 __Technologies Used__
