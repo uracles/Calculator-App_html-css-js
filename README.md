@@ -29,9 +29,6 @@ HTML5: For creating the structure and layout of the calculator.
 CSS3: For styling the user interface and adding visual elements.
 JavaScript: For implementing the calculator logic and interactivity.
 
-__Contribution__
-If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
 
 __Author__
 Created and maintained by Your Merakool.
